@@ -8,7 +8,7 @@ int main()
    int ilosc;
    int uczestnicy;
    int gosp;
-   cout<<"podaj liczbe gości"<<endl;
+   cout<<"podaj liczbe gosci"<<endl;
    cin>>uczestnicy;
    cout<<"podaj liczbe pizz"<<endl;
    cin>>pizza;
